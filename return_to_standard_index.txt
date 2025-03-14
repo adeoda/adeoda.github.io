@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Funie's website</title>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="https://cdn.metroui.org.ua/current/metro.css">
+<link rel="stylesheet" href="https://cdn.metroui.org.ua/current/icons.css">
+<link href="https://cdn.metroui.org.ua/current/icons.css" rel="stylesheet">
+</head>
+<body>
+<div id="lang">
+<span class="mif-arrow-right"></span><a href="lang/portugues.html"> Website em Português</a>
+</div>
+<div id="header">
+<h1>Hello!</h1>
+</div>
+<div id="main">
+<h2>Welcome to my website.</h2>
+<p>I'm Luke, and this is my website for projects.</p>
+<p>Any hyperlinks to contact, blogs, etc. are on the website.</p>
+</div>
+<div id="misc">
+<h3>Hyperlinks</h3>
+<ul>
+<li><a href="contact.html">Contact me</a><br></li>
+<li><a href="blog.html">My blog, still under construction.</a><br></li>
+</ul>
+</div>
+<div id="footer">
+<p>Page last updated in:
+<strong><script language="JavaScript" type:"text/javascript">
+document.write(document.lastModified);
+</script></strong>
+</p>
+<h3>Made with the HTML<img src="HTML5_Badge_32.png" width="24px"> technology</h3>
+<h5>HTML5 Logo by <a href="https://www.w3.org/"><abbr title="World Wide Web Consortium">W3C</abbr></a></h5><br>
+<strong>&copy; 2023-2024 LUKE M. (FUNIE)</strong>
+</div>
+<script src="https://cdn.metroui.org.ua/current/metro.js"></script>
+</body>
+</html>
