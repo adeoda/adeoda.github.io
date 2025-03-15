@@ -1,0 +1,63 @@
+<style type="text/css">
+@font-face {
+    font-family: Product Sans Regular;
+    src: url(/fonts/psansreg.ttf);
+}
+
+#misc .selected {
+ text-decoration: italic; 
+}
+
+#misc ul {
+ list-style-type: none;
+ padding: 0;
+}
+
+body {
+ background-color: #3E3E3E;
+ color: #F5E5C1;
+ font-family: "Product Sans Regular", sans-serif;
+ font-size: 11pt;
+} 
+
+#lang {
+  background-color: #505050;
+  width: 100px;
+  text-align: center;
+  margin: auto;
+}
+
+#header {
+ background-color: #505050;
+ width: 200px;
+ text-align: center;
+ margin: auto;
+}
+
+#main {
+ background-color: #505050;
+ width: 230px;
+ text-align: center;
+ margin: auto;
+}
+
+#misc {
+  background-color: #505050;
+  width: 180px;
+  text-align: center;
+  margin: auto;
+}
+
+a {
+ color: white;
+ font-weight: bold;
+ text-decoration: none;
+}
+
+#footer {
+  background-color: #505050;
+  padding: 10px;
+  width: 200px;
+  margin: auto;
+}
+</style>
