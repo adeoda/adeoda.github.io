@@ -1,6 +1,6 @@
 @font-face {
     font-family: Product Sans Regular;
-    src: url(http://funiee.github.io/fonts/psansreg.ttf);
+    src: url(/fonts/psansreg.ttf);
 }
 
 #misc .selected {
